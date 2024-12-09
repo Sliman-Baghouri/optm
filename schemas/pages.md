@@ -1,11 +1,5 @@
 ---
 title: 
-clients:
-  driva: "/images/driva.png"
-  rakuten: "/images/rakuten.png"
-  velux: "/images/velux.png"
-  publicis: "/images/publicis.png"
-  fever: "/images/fever.png"
 cards:
   - category: "Brand"
     title: "BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr"
