@@ -18,9 +18,8 @@ enableRobotsTXT = true
 
 [params]
   backgroundImagePath = "/uploads/building.jpg"
-  description = "Hugo template with example content for a law firm."
   images = ["siteicon.png"]
-  title = "Justice Template"
+  title = "Optmzyer"
 
 [params._selectData]
   call_to_actions = ["Contact", "Blog", "Map"]
