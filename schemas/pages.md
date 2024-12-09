@@ -1,5 +1,28 @@
 ---
 title: 
-call_to_action: 
-large_header: false
+cards:
+  - category: "Brand"
+    title: "BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr"
+    description: "Louisiana-based online retailer saves 4-6 hours weekly and gains over $450K in revenue since 2021."
+    image: "/images/placeholder-image.png"
+  - category: "Ecommerce"
+    title: "Addi Marketing improves reporting time & quality with Optmyzr"
+    description: "Micro-agency improves quality of reports and slashes prep time by 75%."
+    image: "/images/placeholder-image.png"
+  - category: "Lead Gen"
+    title: "Constellation cuts lead cost by 25% by automating ads from dealer inventory"
+    description: "Agency rises to #65 on Inc. 5000 with Optmyzr on its team."
+    image: "/images/placeholder-image.png"
+  - category: "Brand"
+    title: "BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr"
+    description: "Louisiana-based online retailer saves 4-6 hours weekly and gains over $450K in revenue since 2021."
+    image: "/images/placeholder-image.png"
+  - category: "Ecommerce"
+    title: "Addi Marketing improves reporting time & quality with Optmyzr"
+    description: "Micro-agency improves quality of reports and slashes prep time by 75%."
+    image: "/images/placeholder-image.png"
+  - category: "Lead Gen"
+    title: "Constellation cuts lead cost by 25% by automating ads from dealer inventory"
+    description: "Agency rises to #65 on Inc. 5000 with Optmyzr on its team."
+    image: "/images/placeholder-image.png"
 --- 
