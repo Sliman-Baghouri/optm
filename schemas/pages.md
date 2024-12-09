@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 cards:
   - category: "Brand"
     title: "BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr"
@@ -25,4 +25,14 @@ cards:
     title: "Constellation cuts lead cost by 25% by automating ads from dealer inventory"
     description: "Agency rises to #65 on Inc. 5000 with Optmyzr on its team."
     image: "/images/placeholder-image.png"
---- 
+
+navlinks:
+  - name: "Home"
+    link: "#"
+  - name: "About"
+    link: "#"
+  - name: "Pricing"
+    link: "#"
+  - name: "Company"
+    link: "#"
+---

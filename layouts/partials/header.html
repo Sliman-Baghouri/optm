@@ -4,11 +4,7 @@
     <img src="/images/logo.png" alt="Optmyzr Logo">
     <!-- Navigation Links -->
     <div class="hidden md:flex space-x-4 xl:space-x-16">
-      <a href="/products" class="text-neutral-800 hover:text-green-600">Products</a>
-      <a href="/solutions" class="text-neutral-800 hover:text-green-600">Solutions</a>
-      <a href="/resources" class="text-neutral-800 hover:text-green-600">Resources</a>
-      <a href="/company" class="text-neutral-800 hover:text-green-600">Company</a>
-      <a href="/company" class="text-neutral-800 hover:text-green-600">Pricing</a>
+      <pre>{{ .Params.cards | jsonify }}</pre>
     </div>
 
     <!-- Action Buttons (Hidden on mobile) -->
