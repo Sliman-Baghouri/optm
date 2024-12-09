@@ -1,24 +1,30 @@
 ---
-title: Home
-call_to_action: Contact
-large_header: true
-menu:
-  footer:
-    weight: 1
-testimonials:
-  - message: We use Justice Law in all our endeavours. They offer an unparalleled service when it comes to running a business.
-    image: "https://placekitten.com/g/60/60?a=.png"
-    name: Joice Carmold
-  - message: Justice Law are the best of the best. Being local, they care about people and have strong ties to the community.
-    image: "https://www.fillmurray.com/60/60?a=.png"
-    name: Peter Rottenburg
-  - message: Justice Law were everything we could have hoped for when buying our first home. Highly recommended to all.
-    image: "https://placebear.com/60/60?a=.png"
-    name: D. and G. Gibbleston
-_options:
-  image:
-    width: 60
-    height: 60
+title: Home Page 
+cards:
+  - category: "Brand"
+    title: "BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr"
+    description: "Louisiana-based online retailer saves 4-6 hours weekly and gains over $450K in revenue since 2021."
+    image: "/images/placeholder-image.png"
+  - category: "Ecommerce"
+    title: "Addi Marketing improves reporting time & quality with Optmyzr"
+    description: "Micro-agency improves quality of reports and slashes prep time by 75%."
+    image: "/images/placeholder-image.png"
+  - category: "Lead Gen"
+    title: "Constellation cuts lead cost by 25% by automating ads from dealer inventory"
+    description: "Agency rises to #65 on Inc. 5000 with Optmyzr on its team."
+    image: "/images/placeholder-image.png"
+  - category: "Brand"
+    title: "BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr"
+    description: "Louisiana-based online retailer saves 4-6 hours weekly and gains over $450K in revenue since 2021."
+    image: "/images/placeholder-image.png"
+  - category: "Ecommerce"
+    title: "Addi Marketing improves reporting time & quality with Optmyzr"
+    description: "Micro-agency improves quality of reports and slashes prep time by 75%."
+    image: "/images/placeholder-image.png"
+  - category: "Lead Gen"
+    title: "Constellation cuts lead cost by 25% by automating ads from dealer inventory"
+    description: "Agency rises to #65 on Inc. 5000 with Optmyzr on its team."
+    image: "/images/placeholder-image.png"
 ---
 
 This is the *Justice* template from [CloudCannon](https://cloudcannon.com/). Justice is strong foundation for the web presence of a law firm or business. It's filled with fictitious example content to get you started.
