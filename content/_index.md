@@ -3,7 +3,7 @@ _schema: default
 title: Home Page
 cards:
   - category: Food
-    title: BBQGuys Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr
+    title: Cool Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr
     description: >-
       Louisiana-based online retailer saves 4-6 hours weekly and gains over
       $450K in revenue since 2021.
