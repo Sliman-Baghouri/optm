@@ -1,6 +1,11 @@
 ---
 _schema: default
 title: Home Page
+clients:
+ - image: "/images/driva.png"
+ - image: "/images/rakuten.png"
+ - image: "/images/velux.png"
+ - image: "/images/fever.png"
 cards:
   - category: Food
     title: Cool Manages Nearly 30,000 SKUs in 50% Less Time with Optmyzr
