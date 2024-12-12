@@ -13,7 +13,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Inter", "sans-serif"], // Default sans font
+        body: ['Inter', 'sans-serif'], // Default font for body
+        heading: ['DM Sans', 'sans-serif'], // Font for headings
       },
       colors: {
         primary: {
