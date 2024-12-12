@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="container mx-auto px-4 lg:px-8 py-10">
+  <!-- Post Header -->
+  <header class="mb-8">
+    <h1 class="text-3xl lg:text-5xl font-bold text-gray-800 mb-4">{{ .Title }}</h1>
+    <p class="text-gray-600 text-sm lg:text-base mb-2">Today {{ .Params.author }} | {{ .Date.Format "January 2, 2006" }}</p>
+  </header>
+  <ul>
+    {{ range .Pages }}
+    <li>
+      - <a href="{{ .Permalink }}" class="text-blue-500 hover:underline">{{ .Title }} </a>
+      <span class="text-gray-600 text-sm lg:text-base mb-2"> 🗓️  {{ .Date.Format "January 2, 2006" }}</span>
+    </li>
+    {{ end }}
+  </ul>
+
+</article>
+{{ end }}
+
