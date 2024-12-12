@@ -27,4 +27,3 @@ The `baseof.html` file was refactored to be more generic and scalable.
 ### 5. Code Structure and Organization
 
 - Organized the code into logical directories (`partials`, `layouts`, etc.) to maintain clarity and reusability.
-- Used Tailwind's utility-first approach to keep CSS minimal and inline with modern best practices.
