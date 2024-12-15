@@ -5,6 +5,7 @@ date: 2024-12-12T10:00:00Z
 categories:
   - tutorials
 author: Slimane M Baghouri
+image: /uploads/1.png
 draft: false
 ---
 This is a sample post to demonstrate how to create and access posts. Here's an example of a with additional content.
