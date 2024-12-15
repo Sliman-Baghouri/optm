@@ -1,10 +1,11 @@
 ---
 _schema: default
 title: This is a title
-date:
+date: 2024-12-15T00:00:00Z
 categories:
-author:
+  - food
+author: s
 image:
-draft: true
+draft: false
 ---
 For all i know iit's something new
