@@ -12,9 +12,9 @@
   </header>
 
   <!-- Featured Image -->
-  {{ if .Params.featuredImage }}
+  {{ if .Params.image }}
   <figure class="mb-8">
-    <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}" class="rounded-lg shadow-lg  mx-auto text-center  h-auto">
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="rounded-lg shadow-lg  mx-auto text-center  h-auto">
   </figure>
   {{ end }}
 
